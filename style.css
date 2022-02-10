@@ -1,0 +1,15 @@
+body {
+background-image: url(sfondopergioco.jpg);
+    min-height: 100vh;
+    background-size: cover;
+}
+.run-container img{
+    position: absolute;
+    left: 20%;
+    top: 95%;
+    width: 120%;
+    animation: runningAnimation 12s infinite;
+}
+.run-container img{
+    
+}
